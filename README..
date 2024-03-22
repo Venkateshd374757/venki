@@ -33,7 +33,6 @@ git commit -m"create
 two.c"
 git log
 git status
-git branch
 git branch b1
 git branch b2
 git branch
